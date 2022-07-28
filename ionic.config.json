@@ -1,0 +1,7 @@
+{
+  "name": "GenEx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
